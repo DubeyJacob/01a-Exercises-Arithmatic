@@ -1,30 +1,12 @@
-# 01a-Exercises-Arithmatic
-
-Let's start writing some Python code! This is the first set of exercises for ILS-Z399. To complete these exercises:
-
-Open the IDLE program that came with your Python installation. Use IDLE to interpret the Python code and answer the questions in the file.
-
-Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line.
-
-In the exercise file, you will see a series of Python statements followed by comment lines. Run the Python statement in IDLE and then add the answer to the comment on the following line.
-
-For example, if one line contained this statement:
-~~~ 
-10 + 15
-#
-~~~
-You would enter the statement 10 + 15 into IDLE. After hitting enter, IDLE returns 25, and so you would copy that response after the # on the following line.
-
-Some of the exercises require you to interpret what is going on. Feel free to explore other variations in IDLE until you can come up with a reasonable explanation. 
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the curren year and your name), and edit this file to describe what your code does.
-
----
-
-The grading criteria will be as follows:
-
-* [1 point] Repository contains an appropriate software license
-* [1 point] Repository contains a descriptive README.md
-* [8] Accomplishes the objective of the exercise
-
-10 points total
+Within this code, you will see a series of questions as well as templates for commands that were to
+be explored in this exercise. Underneathe each template, there is either a question, a space to comment,
+or both. the space to comment indicated by a '#' symbol or a comment in (''' ''') are where my answers lie
+to each scenario. The goal of this program is familiarize myself with the commands and syntax used in the
+Python language. The skills taught in this exercises included basic mathematic operations such as addition
+and multiplication as well as exponents. Other commands included how strings worked in Python and various
+commands surrounding strings and different ways to think about strings and string commands. Another large
+topic was random number generation including several ways how to call up random numbers within a set range.
+Each problem came with its own set of directions that included copying the code into an IDLE and running
+the code to see what the result was and then copying the results in the comment spaces of the code.
+That is ultimately what this program is, a teaching tool to familiarize myself with the commands and 
+my discoveries are included in the comment spaces.
